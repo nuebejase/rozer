@@ -1,0 +1,17 @@
+{
+  "cli": {
+    "version": ">=3.0.0"
+  },
+  "build": {
+    "production": {
+      "distribution": "store",
+      "channel": "production",
+      "node": "18.20.8"
+    },
+    "detox": {
+      "distribution": "store",
+      "channel": "detox",
+      "node": "18.20.8"
+    }
+  }
+}

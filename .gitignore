@@ -1,0 +1,24 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Expo & Metro
+.expo/
+.expo-shared/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+.idea/
+
+# Bun Safety
+bun.lock
+bun.lockb
+
+# Build outputs
+dist/
+build/
